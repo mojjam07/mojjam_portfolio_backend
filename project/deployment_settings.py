@@ -21,9 +21,9 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-# CORS_ALLOWED_ORIGINS = [
-#     'https://mojjam-frontend.onrender.com',    
-# ]
+CORS_ALLOWED_ORIGINS = [
+    'https://mojjam-frontend.onrender.com',    
+]
 
 STORAGES = {
     "default":{
