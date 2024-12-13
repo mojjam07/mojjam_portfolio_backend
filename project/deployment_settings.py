@@ -22,7 +22,8 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'https://mojjam-frontend.onrender.com',    
+    'https://mojjam-frontend.onrender.com',
+    'https://mojjam-backend.onrender.com'    
 ]
 
 STORAGES = {
